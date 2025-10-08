@@ -16,3 +16,10 @@ The analysis is organized into three levels:
 
 - **Level 3**  
   Cell-focused analysis, drilling down to fine-grained patterns at the single-cell level.  
+
+TODO: 
+1. remove following samples: "output-XETG00045__0059973__Oprl1_wt__20250725__091031", "output-XETG00045__0059973__Pdl1_cre__20250725__091031_0", 
+2. for opr1 cre comparisions substitute oprl1_wt with c57. 
+3. find a way to separate white from black mice. 
+4. give csv files with log2fc for all genes. 
+5. start level 3. 
