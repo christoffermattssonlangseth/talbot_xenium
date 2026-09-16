@@ -1,0 +1,10 @@
+theme,label,n_genes_on_panel,genes
+wound_healing,Wound healing & epithelial repair,15,Lgr5;Lgr6;Wnt5a;Wnt4;Fgf7;Egfr;Ereg;Tgfb1;Ctnnb1;Itgb1;Itgb4;Lamb3;Cdh1;Timp1;Serpine1
+vascular_repair,Vascular repair,18,Pecam1;Cdh5;Vwf;Kdr;Flt1;Flt4;Tek;Vegfa;Vegfc;Angpt1;Angpt2;Nos3;Notch1;Dll4;Hey1;Eng;Pdgfrb;Cspg4
+immunity_recruitment,Immunity & recruitment,21,Ptprc;Cd3e;Cd4;Cd8a;Cd19;Ms4a1;Cd68;Adgre1;Itgam;Ccr2;Ccl2;Ccl3;Cxcl1;Cxcl2;Cxcl9;Cxcl10;Cxcl12;Ccr7;Sell;Il7r;Cd14
+inflammation_resolution,Inflammation & resolution,16,Tnf;Nfkb1;Ptgs2;Nlrp3;Il10;Tgfb1;Arg1;Mrc1;Chil3;Alox15;Fpr2;Il4;Il13;Socs3;Foxp3;Nos2
+fibrosis_matrix,Fibrosis & matrix remodeling,20,Col1a1;Col1a2;Col5a1;Col6a1;Fn1;Tagln;Postn;Timp1;Mmp2;Mmp9;Mmp13;Mmp14;Lox;Loxl1;Fbn1;Eln;Tgfb1;Pdgfra;Pdgfrb;Lum
+neuroimmune,Neuroimmune signaling,16,Ngf;Bdnf;Ntrk1;Ntrk2;Gfra1;Ret;Nrg1;Cx3cl1;Cx3cr1;Csf1;Csf1r;Il31;Osm;Osmr;Tslp;Crlf2
+pain_sensory,Pain & sensory transduction,15,Trpv1;Trpa1;Trpm8;Scn9a;Scn10a;Piezo2;Piezo1;Asic1;Asic3;P2rx3;P2rx7;Gfra3;Runx1;Trpv4;Kcnq3
+neuropeptides,Neuropeptides & receptors,22,Calcr;Calcrl;Tac1;Tacr1;Tacr2;Vip;Vipr1;Vipr2;Npy1r;Sst;Sstr2;Gal;Galr1;Pnoc;Oprm1;Oprd1;Oprk1;Adcyap1;Nppb;Grp;Grpr;Nmb
+neurogenic_inflammation,Neurogenic inflammation,9,Tac1;Tacr1;Trpv1;Trpa1;Adcyap1;Vip;Hrh1;Ccl2;Ngf
